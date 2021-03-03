@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H4S/7vEDng7wdmxYdw5dIdjaiRwtDqrsm+UNsVyEqvO7GM5+yZ6RF+rRQAlRSCL8btdmhXa269dtwZhSiNCkng==",
+  "success": true,
+  "projectFilePath": "C:\\development\\sound_project_api\\sound_project_api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\АДМИН\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
