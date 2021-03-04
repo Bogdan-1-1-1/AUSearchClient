@@ -1,5 +1,6 @@
 ﻿using System;
-using System.Threading.Tasks;   
+using System.Threading.Tasks; 
+using System.Threading;
 
 namespace sound_project_app
 {
@@ -30,6 +31,9 @@ namespace sound_project_app
                 StorageManager.saveValues(repo.Gamename, repo.Values); 
                 Console.Write("Веса нейронов для игры " + repo.Gamename + " загружены успешно" + "\n");   
             }
+
+            Console.Write("program finished!!!");
+            Thread.Sleep(10000);
         }
 
     }
